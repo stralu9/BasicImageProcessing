@@ -1,2 +1,3 @@
 # BasicImageProcessing
-Project for the Computer Vision course at KU Leuven
+
+This project aims to apply and analyze some basic image processing to an input video using the OpenCV library.
